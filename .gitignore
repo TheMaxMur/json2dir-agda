@@ -1,0 +1,6 @@
+.tools/
+build/
+json2dir
+result
+*.agdai
+__pycache__/
